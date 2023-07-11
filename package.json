@@ -1,0 +1,25 @@
+{
+  "name": "task-creator",
+  "version": "0.0.1",
+  "description": "Pequeño proyecto en node para crear tareas por consola",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FcoJavGallardo/task-creator.git"
+  },
+  "keywords": [
+    "node",
+    "task",
+    "creator"
+  ],
+  "author": "Francisco Javier Gallardo De la Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FcoJavGallardo/task-creator/issues"
+  },
+  "homepage": "https://github.com/FcoJavGallardo/task-creator#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
